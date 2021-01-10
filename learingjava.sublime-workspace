@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min2"
+			],
+			[
+				"max",
+				"max1"
+			],
+			[
+				"s",
+				"s1"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"y",
+				"y1-y2"
+			],
+			[
+				"cout",
+				"count"
+			],
+			[
+				"mi",
+				"min2"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"m",
+				"main\tmain()"
+			],
+			[
+				"T",
+				"t"
+			],
+			[
+				"r",
+				"r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "learingjava.sublime-project",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lucifar/Documents/cf"
+	],
+	"file_history":
+	[
+		"/home/lucifar/Documents/Problem_solving/984AGame.cpp",
+		"/home/lucifar/Documents/Problem_solving/APaymentWithoutChange.cpp",
+		"/home/lucifar/Documents/Problem_solving/BMinimumroduct.cpp",
+		"/home/lucifar/Documents/Problem_solving/AJugglingLetters.cpp",
+		"/home/lucifar/Documents/Problem_solving/AYetAnotherTwoIntegersProblem.cpp",
+		"/home/lucifar/Documents/Problem_solving/AChooseTwoNumbers.cpp",
+		"/home/lucifar/Documents/Problem_solving/BHonestCoach.cpp",
+		"/home/lucifar/Documents/Problem_solving/Bsale.cpp",
+		"/home/lucifar/Documents/Problem_solving/AWinner.cpp",
+		"/home/lucifar/Documents/Problem_solving/AThenumberofpositions.cpp",
+		"/home/lucifar/Documents/Problem_solving/BSumofDigits.cpp",
+		"/home/lucifar/Documents/Problem_solving/ANewspaperHeadline.cpp",
+		"/home/lucifar/Documents/Problem_solving/APlugin.cpp",
+		"/home/lucifar/Documents/Problem_solving/ANewYearGarland.cpp",
+		"/home/lucifar/Documents/Problem_solving/AOmkarandPassword.cpp",
+		"/home/lucifar/Documents/Problem_solving/Arabbit.cpp",
+		"/home/lucifar/Documents/Problem_solving/ADieRoll.cpp",
+		"/home/lucifar/Documents/Problem_solving/ALCMProblem.cpp",
+		"/home/lucifar/Documents/Problem_solving/BGiftsFixing.cpp",
+		"/home/lucifar/Documents/Problem_solving/AHittheLottery.cpp",
+		"/home/lucifar/Documents/Problem_solving/Aminimum0508contest.cpp",
+		"/home/lucifar/Documents/Problem_solving/ALCM Problem.cpp",
+		"/home/lucifar/Documents/Problem_solving/AMostUnstableArray.cpp",
+		"/home/lucifar/Documents/Problem_solving/AImboredwithlife.cpp",
+		"/home/lucifar/Documents/Problem_solving/Ainiatialbet.cpp",
+		"/home/lucifar/Documents/Problem_solving/A. I'm bored with life.cpp",
+		"/home/lucifar/Documents/Problem_solving/AHolidayOfEquality.cpp",
+		"/home/lucifar/Documents/Problem_solving/702A - Maximum Increase.cpp",
+		"/home/lucifar/Documents/Problem_solving/ATeamOlympiad.cpp",
+		"/home/lucifar/Documents/Problem_solving/ABoredom.cpp",
+		"/home/lucifar/Documents/Problem_solving/ACheapTravel.cpp",
+		"/home/lucifar/Documents/Problem_solving/ABadUglyNumbers.cpp",
+		"/home/lucifar/Documents/Problem_solving/ARewards.cpp",
+		"/home/lucifar/Documents/Problem_solving/ACollectingCoins.cpp",
+		"/home/lucifar/Documents/Problem_solving/Akeyboard.cpp",
+		"/home/lucifar/Documents/Problem_solving/AVasyatheHipster.cpp",
+		"/home/lucifar/Documents/Problem_solving/x.cpp",
+		"/home/lucifar/Documents/Problem_solving/ABrainsPhotos.cpp",
+		"/home/lucifar/Documents/Problem_solving/AGennadyandaCardGame.cpp",
+		"/home/lucifar/Documents/Problem_solving/AVanyaandCubes.cpp",
+		"/home/lucifar/Documents/Problem_solving/ABustoUdayland.cpp",
+		"/home/lucifar/Documents/Problem_solving/ASecondPriceAuction.cpp",
+		"/home/lucifar/Documents/Problem_solving/AInSearchofanEasyProblem.cpp",
+		"/home/lucifar/Documents/Problem_solving/ABachgoldProblem.cpp",
+		"/home/lucifar/Documents/Problem_solving/ASquats.cpp",
+		"/home/lucifar/Documents/Problem_solving/AFoxAndSnake.cpp",
+		"/home/lucifar/Documents/Problem_solving/ACandiesandTwoSisters.cpp",
+		"/home/lucifar/Documents/Problem_solving/ABlackSquare.cpp",
+		"/home/lucifar/Documents/Problem_solving/AIsyourhorseshoeontheotherhoof.cpp",
+		"/home/lucifar/Documents/Problem_solving/ARaisingBacteria.cpp",
+		"/home/lucifar/Documents/Problem_solving/1385AThreePairwiseMaximums.cpp",
+		"/home/lucifar/Documents/Problem_solving/AI_love_username.cpp",
+		"/home/lucifar/Documents/Problem_solving/ADrinks.cpp",
+		"/home/lucifar/Documents/Problem_solving/AMUHandSticks.cpp",
+		"/home/lucifar/Documents/Problem_solving/AOlesyaandRodion.cpp",
+		"/home/lucifar/Documents/Problem_solving/aoath.cpp",
+		"/home/lucifar/Documents/Problem_solving/oddeven.cpp",
+		"/home/lucifar/Documents/Problem_solving/BFedyaandMaths.cpp",
+		"/home/lucifar/Documents/Problem_solving/ALaptops.cpp",
+		"/home/lucifar/Documents/Problem_solving/wordcorrect.cpp",
+		"/home/lucifar/Documents/Problem_solving/APetranBook.cpp",
+		"/home/lucifar/Documents/Problem_solving/AOathoftheNight'sWatch.cpp",
+		"/home/lucifar/Documents/Problem_solving/AAboutBacteria.cpp",
+		"/home/lucifar/Documents/Problem_solving/ACards.cpp",
+		"/home/lucifar/Documents/Problem_solving/ALCMChallenge.cpp",
+		"/home/lucifar/Documents/Problem_solving/BRegularBracketSequence.cpp",
+		"/home/lucifar/Documents/Problem_solving/AUltraFastMathematician.cpp",
+		"/home/lucifar/Documents/Problem_solving/AGravityFlip.cpp",
+		"/home/lucifar/Documents/Problem_solving/AFreeCash.cpp",
+		"/home/lucifar/Documents/Problem_solving/AStickersandToys.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfnexttest.cpp",
+		"/home/lucifar/Documents/Problem_solving/AWinnercf.cpp",
+		"/home/lucifar/Documents/Problem_solving/AC+=.cpp",
+		"/home/lucifar/Documents/Problem_solving/AGames.cpp",
+		"/home/lucifar/Documents/Problem_solving/omkar.cpp",
+		"/home/lucifar/Documents/Problem_solving/permutation.cpp",
+		"/home/lucifar/Documents/Problem_solving/threeindex.cpp",
+		"/home/lucifar/Documents/Problem_solving/guygamecf.cpp",
+		"/home/lucifar/Documents/Problem_solving/signflipping.cpp",
+		"/home/lucifar/Documents/Problem_solving/contestcf.cpp",
+		"/home/lucifar/Documents/Problem_solving/signandjoke.cpp",
+		"/home/lucifar/Documents/Problem_solving/cards.cpp",
+		"/home/lucifar/Documents/Problem_solving/iqtest.cpp",
+		"/home/lucifar/Documents/Problem_solving/garden.cpp",
+		"/home/lucifar/Documents/Problem_solving/commonperuv.cpp",
+		"/home/lucifar/Documents/Problem_solving/fuad.cpp",
+		"/home/lucifar/Documents/Problem_solving/juhuchildren.cpp",
+		"/home/lucifar/Documents/Problem_solving/reminder.cpp",
+		"/home/lucifar/Documents/Problem_solving/donuts.cpp",
+		"/home/lucifar/Documents/Problem_solving/palindrome.cpp",
+		"/home/lucifar/Documents/Problem_solving/mathb.cpp",
+		"/home/lucifar/Documents/Problem_solving/transportation.cpp",
+		"/home/lucifar/Documents/Problem_solving/dashaandstairs.cpp",
+		"/home/lucifar/Documents/Problem_solving/pashmakandflowerb.cpp",
+		"/home/lucifar/Documents/Problem_solving/ismonia.cpp",
+		"/home/lucifar/Documents/Problem_solving/MagicalSticks.cpp",
+		"/home/lucifar/Documents/Problem_solving/toast.cpp",
+		"/home/lucifar/Documents/Problem_solving/petayaandfriend.cpp",
+		"/home/lucifar/Documents/Problem_solving/fifaandemploy.cpp",
+		"/home/lucifar/Documents/Problem_solving/partition.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfkeyraces.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfchips.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfmeetoldfriend.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfmagnets.cpp",
+		"/home/lucifar/Documents/Problem_solving/beautifulyear.cpp",
+		"/home/lucifar/Documents/Problem_solving/learnmath.cpp",
+		"/home/lucifar/Documents/Problem_solving/123sequence.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfsuits.cpp",
+		"/home/lucifar/Documents/Problem_solving/uva1074.cpp",
+		"/home/lucifar/Documents/Problem_solving/maxgcd.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfvasaya.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfvasaya&root.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfhouse.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfmettingfriend.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfevenodd.cpp",
+		"/home/lucifar/Documents/Problem_solving/busgame.cpp",
+		"/home/lucifar/Documents/Problem_solving/game.cpp",
+		"/home/lucifar/Documents/Problem_solving/cfsortsub.cpp",
+		"/home/lucifar/Documents/Problem_solving/seluth.cpp",
+		"/home/lucifar/Documents/Problem_solving/translation.cpp",
+		"/home/lucifar/Documents/Problem_solving/polygoncontest.cpp",
+		"/home/lucifar/Documents/Problem_solving/birthday.cpp",
+		"/home/lucifar/Documents/Problem_solving/control.py",
+		"/home/lucifar/Documents/Problem_solving/x.html",
+		"/home/lucifar/Documents/Problem_solving/word.cpp",
+		"/home/lucifar/Documents/Problem_solving/twostring.cpp",
+		"/home/lucifar/Documents/Problem_solving/dubstep.cpp",
+		"/home/lucifar/Documents/Problem_solving/pangram.cpp"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"x",
+			"a",
+			"nl",
+			"ll",
+			"max",
+			"min",
+			"v[2]",
+			"v[1]",
+			"v[5]",
+			"v[4]",
+			"v[3]",
+			"v[0]",
+			"\t\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "learingjava.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "learingjava.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
